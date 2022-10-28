@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.81ebd6f5.css",
+    "main.js": "/static/js/main.29eef516.js",
+    "static/media/crosslegs.png": "/static/media/crosslegs.4716d155bea92c0f5cae.png",
+    "static/media/hero.jpg": "/static/media/hero.c099848f4cb41ca8a630.jpg",
+    "static/media/right.png": "/static/media/right.e8da37870401e82791a5.png",
+    "static/media/left.png": "/static/media/left.7de99990e6e1dfd19a79.png",
+    "static/media/card1.png": "/static/media/card1.b8df9055e121c5682966.png",
+    "static/media/card3.png": "/static/media/card3.9dc25f14fa575bfd705f.png",
+    "static/media/card2.png": "/static/media/card2.87ec7d95a8c563b83e9a.png",
+    "static/media/email-bg.png": "/static/media/email-bg.72d3440d2863738423da.png",
+    "static/media/gallerytop-bg.png": "/static/media/gallerytop-bg.f07d360df0a8c6c6fc09.png",
+    "static/media/svgbg.png": "/static/media/svgbg.cbfda04ac48943f51c8f.png",
+    "static/media/cardbg.png": "/static/media/cardbg.cbc3961275b8f77f2495.png",
+    "static/media/gallerydown-bg.png": "/static/media/gallerydown-bg.2ee4c740433667be6bff.png",
+    "index.html": "/index.html",
+    "main.81ebd6f5.css.map": "/static/css/main.81ebd6f5.css.map",
+    "main.29eef516.js.map": "/static/js/main.29eef516.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81ebd6f5.css",
+    "static/js/main.29eef516.js"
+  ]
+}
